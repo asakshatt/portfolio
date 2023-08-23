@@ -102,6 +102,12 @@ section{
     font-weight: 700;
     font-size: 15px;
     text-transform: uppercase;
+    
+}
+#email {
+    box-shadow: 0px 20px 40px #000;
+    text-transform: none;
+    background: black;
 }
 
 .home-text h1 {
